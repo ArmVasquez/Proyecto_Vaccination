@@ -7,3 +7,5 @@ Este proyecto fue desarrollado para el programa de "LaunchX" de Innovacción Vir
 [Este es el link al sitio web](https://armvasquez.github.io/Proyecto_Vaccination/).
 
 ## Screenshots
+![Screenshot1](/images/Screenshot_1.png)
+![Screenshot2](/images/Screenshot_2.png)
